@@ -1,10 +1,12 @@
 ---
 permalink: /members/
+layout: splash
 title: "Group Members"
 excerpt: "Members of the DTP group."
 author_profile: false
 ---
 
+{% include base_path %}
 
 ## Current
 

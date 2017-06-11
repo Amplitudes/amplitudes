@@ -7,17 +7,17 @@ main:
   - title: "Group Code of Conduct"
     url: /conduct/
 
-  - title: "Group philosophy"
-    url: /philosophy/
+#  - title: "Group philosophy"
+#    url: /philosophy/
 
-  - title: "Contacting or joining"
-    url: /contact/
+#  - title: "Contacting or joining"
+#    url: /contact/
 
-  - title: "Work guidelines for members"
-    url: /collection-archive/
+#  - title: "Work guidelines for members"
+#    url: /collection-archive/
 
-  - title: "Resources for new members"
-    url: /collection-archive/
+#  - title: "Resources for new members"
+#    url: /collection-archive/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/

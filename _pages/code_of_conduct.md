@@ -1,9 +1,11 @@
 ---
 title: "Group Code of Conduct"
-layout: archive
+layout: single
 permalink: /conduct/
 author_profile: false
 ---
+
+{% include base_path %}
 
 All members of the DTP group, along with visitors, and generally every functioning member of society, are expected to agree with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensuring a safe environment for everybody.
 

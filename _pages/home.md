@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Welcome to the Group for Declarative Theoretical Physics in Paris-Saclay."
+title: "Welcome to the Paris-Saclay Group for Declarative Theoretical Physics."
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
