@@ -4,9 +4,7 @@ permalink: /
 title: "Welcome to the Group for Declarative Theoretical Physics in Paris-Saclay."
 header:
   overlay_color: "#5e616c"
-  overlay_image: images/jjTheoryGryInf.jpg
-#  cta_label: "<i class='fa fa-download'></i> Install Now"
-#  cta_url: "/docs/quick-start-guide/"
+  overlay_image: /images/jjTheoryGryInf.jpg
   caption:
 excerpt: Focussed on the *what* of physical predictions, allowing creative play in discovering the *how*.
 ---
@@ -33,7 +31,3 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
   F-91191 Gif-sur-Yvette Cedex
   FRANCE
 ```
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
