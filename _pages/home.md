@@ -4,10 +4,12 @@ permalink: /
 title: "Welcome to the Group for Declarative Theoretical Physics in Paris-Saclay."
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/jjTheoryGryInf.jpg
+  overlay_image: jjTheoryGryInf.jpg
   caption:
 excerpt: Focussed on the *what* of physical predictions, allowing creative play in discovering the *how*.
 ---
+
+{% include base_path %}
 
 ### Computers are great. Ideas are better.
 
