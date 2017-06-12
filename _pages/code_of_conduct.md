@@ -12,7 +12,7 @@ All members of the DTP group, along with visitors, and sentient beings in genera
 ## The Quick Version
 [*No member of the community shall take unfair advantage of any other member of the community.*](http://www.admissions.caltech.edu/content/honor-code)
 
-In addition to a dedication to open collaboration, trust, and development, the group is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery are universally unacceptable for any group venue, including group meetings, presentations, or discussions.
+Complementing its dedication to open collaboration, trust, and development, the group is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery are universally unacceptable for any group venue, including group meetings, presentations, or discussions.
 
 ## The Less Quick Version
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
