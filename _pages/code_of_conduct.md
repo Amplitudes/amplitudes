@@ -1,5 +1,5 @@
 ---
-title: "Group Code of Conduct"
+title: "Declarative Theory Group's Code of Conduct"
 layout: single
 permalink: /conduct/
 author_profile: false
