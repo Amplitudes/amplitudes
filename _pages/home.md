@@ -6,14 +6,16 @@ header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
   caption:
-excerpt: Focussed on the *what* of physical predictions, allowing creative play in discovering the *how*.
+excerpt: Focussed on the *what* of physical predictions, allowing creative play in probing the universe's *how*.
 ---
 
 {% include base_path %}
 
 ### Computers are great. Ideas are better.
 
-The DTP Group proudly pursues the strategy of  pushing the line of *failure-point predictions*.  These require calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this invites new ideas, new physical stories, and ultimately the apprehension of novel structure. The goal is deep physical insight, with a joy in developing and leveraging --- for mutual benefit --- domain expertise in scattering amplitudes, relativity, quantum field theory, string theory, and cosmology.
+The DTP Group proudly pursues the strategy of  pushing the line of *failure-point predictions*.  These require calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this invites new ideas, new physical stories, and ultimately the apprehension of novel structure.
+
+The goal is deep physical insight, with a joy in developing and leveraging --- for mutual benefit --- domain expertise in scattering amplitudes, relativity, quantum field theory, string theory, and cosmology.
 
 Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members happily invoke algorithms and automation to help navigate the diverging tree of candidate moves.
 
