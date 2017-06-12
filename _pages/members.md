@@ -8,7 +8,7 @@ author_profile: false
 
 {% include base_path %}
 
-## Current
+## Current Declarative Theory Group Members
 
 | Name     | Position               |  More Information    |
 | -------- |----------------------- |------------ |
