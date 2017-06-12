@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-All members of the DTP group, along with visitors, and sentient beings in general, are expected to act in concordance with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensuring a safe environment for everybody.
+All members of the DTP group, along with visitors, and sentient beings in general, are expected to act in concordance with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensure a safe and collaborative environment for everybody.
 
 ## The Quick Version
 [*No member of the community shall take unfair advantage of any other member of the community.*](http://www.admissions.caltech.edu/content/honor-code)
