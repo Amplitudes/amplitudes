@@ -11,13 +11,13 @@ excerpt: Focussed on the *what* of physical predictions, allowing creative play 
 
 {% include base_path %}
 
-### Computers are great. Ideas are better.
+## Computers are great. Ideas are better.
 
-The DTP Group proudly pursues the strategy of  pushing the line of *failure-point predictions*.  These require calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this invites new ideas, new physical stories, and ultimately the apprehension of novel structure.
+The DTP Group likes to push the line of *failure-point predictions*.  These involve calculations that take modern methods and world-class technologies to their breaking-point.  To make progress, by definition, this strategy invites new ideas, new physical stories, and ultimately the apprehension of novel structure.
 
 The goal is deep physical insight, with a joy in developing and leveraging --- for mutual benefit --- domain expertise in scattering amplitudes, relativity, quantum field theory, string theory, and cosmology.
 
-Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members tactically invoke algorithms and automation to navigate the diverging tree of candidate moves.
+Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members are encouraged to invoke algorithms and automation to aid in tactically navigating the diverging tree of candidate moves.
 
 
   The group is located on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), in the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
