@@ -9,9 +9,10 @@ author_profile: false
 
 All members of the DTP group, along with visitors, and sentient beings in general, are expected to act in concordance with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensure a safe and collaborative environment for everybody.
 
-## The Quick Version
-[*No member of the community shall take unfair advantage of any other member of the community.*](http://www.admissions.caltech.edu/content/honor-code)
+## The Quickest Version ('Techer-style)
+[*No member of the community shall take unfair advantage of any other member of the community.*](http://www.admissions.caltech.edu/content/honor-code).
 
+## The Quick Version
 Complementing its dedication to open collaboration, trust, and development, the group is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery are universally unacceptable for any group venue, including group meetings, presentations, or discussions.
 
 ## The Less Quick Version
