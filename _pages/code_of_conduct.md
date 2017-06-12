@@ -7,10 +7,12 @@ author_profile: false
 
 {% include base_path %}
 
-All members of the DTP group, along with visitors, and generally every functioning member of society, are expected to agree with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensuring a safe environment for everybody.
+All members of the DTP group, along with visitors, and humans in general, are expected to agree with the following code of conduct. We will enforce this code as necessary. We expect active cooperation from all members to help ensuring a safe environment for everybody.
 
 ## The Quick Version
-The group is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery are universally unacceptable for any group venue, including group meetings, presentations, or discussions.
+[*No member of the community shall take unfair advantage of any other member of the community.*](http://www.admissions.caltech.edu/content/honor-code)
+
+In addition to a dedication to open collaboration, trust, and development, the group is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of group members in any form. Sexual language and imagery are universally unacceptable for any group venue, including group meetings, presentations, or discussions.
 
 ## The Less Quick Version
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
