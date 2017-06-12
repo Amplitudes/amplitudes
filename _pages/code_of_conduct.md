@@ -19,7 +19,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Members or visitors asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [JJ Carrasco](mailto:john-joseph.carrasco@ipht.fr) immediately.  For official concerns, please see the HR office of CEA.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact [JJ Carrasco](mailto:john-joseph.carrasco@ipht.fr) immediately. If for whatever reasons you would not feel comfortable coming to JJ,  [Juna Kollmeier](mailto:jak@carnegiescience.edu) (of the [Carnegie Institute](https://carnegiescience.edu/scientist/juna-kollmeier)), has volunteered to be a safe informal point of contact;  she does not work for JJ or IPhT, and has agreed to help mediate if ever necessary. For official concerns, members must see the HR office of CEA.
 
 We expect members to follow these guidelines at any group-related event.
 
