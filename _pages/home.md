@@ -5,7 +5,8 @@ title: "Welcome to the Paris-Saclay Group for Declarative Theoretical Physics."
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
-  caption:
+  caption: ""
+
 excerpt: Focussed on the *what* of physical predictions, allowing creative play in probing the universe's *how*.
 ---
 
