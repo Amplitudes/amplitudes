@@ -2,6 +2,12 @@
 permalink: /members/
 layout: splash
 title: "Group Members"
+modified: 2017-06-12
+header:
+  overlay_color: "#5e616c"
+  overlay_image: sixPtRelations.jpg
+  overlay_filter: .4
+  caption: ""
 excerpt: "Members of the DTP group."
 author_profile: false
 ---
