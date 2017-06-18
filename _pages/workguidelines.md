@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /workGuidelines/
+permalink: /workguidelines/
 title: "Work guidelines for members of the group"
 header:
   overlay_color: "#5e616c"
