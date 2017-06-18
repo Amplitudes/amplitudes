@@ -18,21 +18,23 @@ We work at the pleasure of money granted from either private institutions or thr
 
 I tend to think of these types of guidelines as coordinating documents; not legalistic as much as aspirational and communicative.
 
- I looked around to see if I could find some examples to base this off, and the one I felt closest to my ideal starting point was Titus Brown's located [here](http://ivory.idyll.org/lab/work-guidelines.html) from which I lifted shamelessly.  ( While exploring his site I also came across his "Lab Code of Conduct", which I think is an excellent idea, and one I've incorporated [here](/code_of_conduct/).)
+ I looked around to see if I could find some examples, and surprisingly enough, not only wasn't there a lot to be found for theoretical physics. It was as if the only guideline that mattered was the one already ingrained in all of us: *do awesome work*.
 
- -jjmc
+That's fine.  But there's more to being functional than just doing awesome work.  The writeup I felt closest to my ideal starting point was Titus Brown's, located [here](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.    ( While exploring his site I also came across his "Lab Code of Conduct", which I think is an excellent idea, and one I've incorporated [here](/code_of_conduct/).)
+
+ -JJMC, 18 June 2017
 
 # Responsibilities of group members
 
 ## All scientific group members
 * Uphold [group's code of conduct](/code_of_conduct/)
 * Take care of yourself[^care].
-* Invest in research you *care* about.  If you aren't passionate about what you're looking at, you *should* be doing something else.
+* Invest in research you *care* about.  If you aren't passionate about what you're looking at, you *should* be looking at something else.
 * Support each other.
   *  We each come with different domains of expertise, and specialization in a  collaborative context can mean spectacular results. Surprising success in absolutely unexpected directions will come from leveraging mutual domain expertise.
 * Build up the greater community
     * Cite well and inclusively.
-      * References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspectic reader.
+      * References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspecting reader.
     * Acknowledge help/ideas/inspiration/conversation *generously* -- it costs us nothing other than perhaps a moment spent to reflect on what helped us get where we are.
     * Take the time to put your work in context that the audience (seminar/colloquium/conference talk/lecture/public-talk/article) can understand and relate to.
     * Share data, code, aesthetics, and perspective openly and generously.
@@ -142,9 +144,9 @@ Check following before ordering
     * Library for books/journals etc.
     * Laurent for software licenses etc.
 
-* Orders under €1800 can be done without purchase orders after clearing with JJ.
+* Orders under €1800 can be done without a ton of paperwork after clearing with JJ.
 
 
 ------------------------
 
-Over €1800, JJ needs to be involved with purchase orders...
+Over €1800, JJ needs to be involved with the paperwork...
