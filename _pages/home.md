@@ -23,7 +23,7 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
 
   The group is located on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), in the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-  The group is run by Dr. John Joseph M. Carrasco, Permanent Member of IPhT; you can see many of the group's publications [here](http://inspirehep.net/search?ln=en&ln=en&p=author%3AJ.J.M.Carrasco.1). You can read more about the group members under [Group members](/members).
+  The group is run by [Dr. John Joseph M. Carrasco](http://prettyquestions.com), Permanent Member of IPhT; you can see many of the group's publications [here](http://inspirehep.net/search?ln=en&ln=en&p=author%3AJ.J.M.Carrasco.1). You can read more about the group members under [Group members](/members).
 
   The lab mailing address is:
 
