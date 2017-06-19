@@ -12,17 +12,17 @@ read_time: true
 ---
 
 We work at the pleasure of money granted from either private institutions or through the trust of the public.  In either case we have an obligation to see this money is  well-spent.  I don't think this means a lot of bureaucracy, but I do think it means a periodic and active reflection on:
- * what our responsibilities are
- * how efficient we are in communicating with each other.
- * how efficient we are in communicating with our greater scientific community and the interested public
+ * what our responsibilities are;
+ * how efficient we are in communicating with each other;
+ * how efficient we are in communicating with our greater scientific community and the interested public.
 
 I tend to think of these types of guidelines as coordinating documents; not legalistic as much as aspirational and communicative.
 
  I looked around to see if I could find some examples, and surprisingly enough, not only wasn't there a lot to be found for theoretical physics. It was as if the only guideline that mattered was the one already ingrained in all of us: *do awesome work*.
 
-That's fine.  But there's more to being functional than just doing awesome work.  The writeup I felt closest to my ideal starting point was Titus Brown's, located [here](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.    ( While exploring his site I also came across his "Lab Code of Conduct", which I think is an excellent idea, and one I've incorporated [here](/code_of_conduct/).)
+That's fine.  But there's more to being functional than just doing awesome work.  The writeup I felt closest to my ideal starting point was [Titus Brown's](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.    ( While exploring his site I also came across his "Lab Code of Conduct", which I think is an excellent idea, and one I've [incorporated](/code_of_conduct/).)
 
- -JJMC, 18 June 2017
+-JJMC, 18 June 2017
 
 # Responsibilities of group members
 
@@ -36,11 +36,8 @@ That's fine.  But there's more to being functional than just doing awesome work.
     * Cite well and inclusively.
       * References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspecting reader.
     * Acknowledge help/ideas/inspiration/conversation *generously* -- it costs us nothing other than perhaps a moment spent to reflect on what helped us get where we are.
-    * Take the time to put your work in context that the audience (seminar/colloquium/conference talk/lecture/public-talk/article) can understand and relate to.
+    * Take the time to put your work in context that the audience (seminar/colloquium/conference. talk/lecture/public-talk/article) can understand and relate to.
     * Share data, code, aesthetics, and perspective openly and generously.
-    * Referee responsibly.
-      * If you commit to refereeing, do so.
-      If you cannot spend the time to do a good job, or if it's outside an area you feel comfortable with the responsible thing to do is decline. If you do take on a
 
 
 [^care]: Good science, like many things worth doing in life, is a marathon, not a sprint. But how you run this race effects your ability and willingness to go after another. You not only want to  make it to this finish line, but the next, and the next and the next...
