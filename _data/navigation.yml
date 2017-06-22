@@ -13,8 +13,8 @@ main:
   - title: "Work guidelines"
     url: /workguidelines/
 
-#  - title: "Resources for new members"
-#    url: /collection-archive/
+  - title: "Resources for New Members"
+    url: /newResources/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
