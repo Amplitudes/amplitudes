@@ -35,14 +35,14 @@ That's fine.  But there's more to being functional than just doing awesome work.
 * Support each other.
   *  We each come with different domains of expertise. Specialization in a  collaborative context can mean spectacular results. Surprising success in absolutely unexpected directions will come from leveraging mutual domain expertise.
 * Build up the greater community
-    * Cite well and inclusively.
-      * References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspecting reader.
-    * Acknowledge help/ideas/inspiration/conversation *generously* . It costs us nothing other than a moment spent to reflect on what helped us get where we are.
+    * Cite well and **inclusively**[^citeIncl].
+    * Acknowledge help/ideas/inspiration/conversation *generously* . It costs us nothing other than the moment spent to reflect on what helped us get where we are.
     * Take the time to put your work in context that the audience (seminar/colloquium/conference-talk/lecture/public-talk/article) can understand and relate to.
     * Share data, code, aesthetics, and perspective openly and generously.
 
 
 [^care]: Good science, like many things worth doing in life, is a marathon, not a sprint. But how you run this race effects your ability and willingness to go after another. You not only want to  make it to this finish line, but the next, and the next and the next...
+[^citeIncl]: References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspecting reader.
 
 ## JJ's responsibilities as PI:
 
@@ -103,13 +103,11 @@ Members should file summaries  *weekly*, and generally by the same time each wee
 
 If you are taking time off, then note that in advance and don't submit weekly reports during that period.
 
-If work-related travel is coming up, please submit a report BEFORE the travel and AFTER the travel.
 
 ## Travel
 
-
 * Get permission from JJ before booking any travel over €200.
-  Under €200, assume "lazy consensus", meaning email him and default is "yes"
+  Under €200, email him and default is "yes"
   unless he raises an objection within 3 working days.  
   If the travel is more urgent, mention "urgent" in the email subject.
 
@@ -124,10 +122,10 @@ JJ approves most research tangibles (computers, books, etc.).  Please motivate, 
 
 Under €1800,
 
-* Under €200, use "lazy consensus". 3 working days notice, please.
+* Under €200,  Email JJ, and default is "yes" if he doesn't respond within 3 working days.
 Check following before ordering
-    * Library for books/journals etc.
-    * Laurent for software licenses etc.
+    * Library for books/journals.
+    * Laurent for software licenses.
 
 * Orders under €1800 happen without a ton of paperwork after clearing with JJ.
 
