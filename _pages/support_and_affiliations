@@ -1,0 +1,20 @@
+---
+permalink: /support_and_affiliations/
+layout: splash
+title: "Support & Affiliations"
+modified: 2017-06-22
+header:
+  overlay_color: "#5e616c"
+  overlay_image: sixPtRelations.jpg
+  overlay_filter: .4
+  caption: ""
+author_profile: false
+---
+
+{% include base_path %}
+
+# Supported by:
+ERC Grant ....
+
+# Affiliated with:
+IPhT, CEA-Saclay, and University of Paris-Saclay.
