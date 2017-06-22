@@ -99,7 +99,8 @@ week, you'r overdoing it.
 
 ----
 
-Members should file summaries  *weekly*, and generally by the same time each week.  Let JJ know when to expect them (e.g. by Friday 5pm; or by Monday noon; or...)
+Members should file summaries  *weekly*, and generally by the same time each week.  Let JJ know when to expect them.  e.g.
+  > JJ, expect my reports by Monday 4:30 pm. -XXX
 
 If you are taking time off, then note that in advance and don't submit weekly reports during that period.
 
