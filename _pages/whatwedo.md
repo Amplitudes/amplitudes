@@ -12,7 +12,7 @@ read_time: true
 
 ## Scientific Mission Statement
 
-The Declarative Theoretical Physics group pursues broad interests in fundamental physics. We build and leverage *theoretical data* towards discovering new frameworks for:
+The Declarative Theoretical Physics group pursues broad interests in fundamental physics. We build and leverage **theoretical data** towards discovering new frameworks for:
 
 * scattering amplitudes;
 * formal quantum field theory and string theory;
