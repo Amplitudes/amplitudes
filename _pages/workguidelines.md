@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /workguidelines/
 title: "Work guidelines for members of the group"
 header:
@@ -18,9 +18,11 @@ We work at the pleasure of money granted from either private institutions or thr
 
 I tend to think of these types of guidelines as coordinating documents; not legalistic as much as aspirational and communicative.
 
- I looked around to see if I could find some examples, and surprisingly enough, not only wasn't there a lot to be found for theoretical physics. It was as if the only guideline that mattered was the one already ingrained in all of us: *do awesome work*.
+I looked around to see if I could find some examples, and surprisingly enough, there wasn't a lot for theoretical physics[^source]. It was as if the only guideline that mattered was the one already ingrained in all of us: *do awesome work*.
 
-That's fine.  But there's more to being functional than just doing awesome work.  The writeup I felt closest to my ideal starting point was [Titus Brown's](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.    ( While exploring his site I also came across his "Lab Code of Conduct", which I think is an excellent idea, and one I've [incorporated](/code_of_conduct/).)
+[^source]:   The writeup I felt closest to my ideal starting point was [Titus  Brown's](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.  While exploring his site I also came across his "Lab Code of Conduct", which is an excellent idea, and one I've [incorporated](/code_of_conduct/).
+
+That's fine.  But there's more to being functional than just doing awesome work.
 
 -JJMC, 18 June 2017
 
@@ -31,12 +33,12 @@ That's fine.  But there's more to being functional than just doing awesome work.
 * Take care of yourself[^care].
 * Invest in research you *care* about.  If you aren't passionate about what you're looking at, you *should* be looking at something else.
 * Support each other.
-  *  We each come with different domains of expertise, and specialization in a  collaborative context can mean spectacular results. Surprising success in absolutely unexpected directions will come from leveraging mutual domain expertise.
+  *  We each come with different domains of expertise. Specialization in a  collaborative context can mean spectacular results. Surprising success in absolutely unexpected directions will come from leveraging mutual domain expertise.
 * Build up the greater community
     * Cite well and inclusively.
       * References in theoretical physics aren't merely the breadcrumbs we find useful.  They exist to weave our contributions into the greater web of the academic program. Standard practice is to refer to any relevant work whether or not it was interesting / useful / pedagogical / a complete waste of your time.  If some work is problematic -- don't ignore it, politely point out what you found useful and what traps might be ahead for the unsuspecting reader.
-    * Acknowledge help/ideas/inspiration/conversation *generously* -- it costs us nothing other than perhaps a moment spent to reflect on what helped us get where we are.
-    * Take the time to put your work in context that the audience (seminar/colloquium/conference. talk/lecture/public-talk/article) can understand and relate to.
+    * Acknowledge help/ideas/inspiration/conversation *generously* . It costs us nothing other than a moment spent to reflect on what helped us get where we are.
+    * Take the time to put your work in context that the audience (seminar/colloquium/conference-talk/lecture/public-talk/article) can understand and relate to.
     * Share data, code, aesthetics, and perspective openly and generously.
 
 
@@ -46,7 +48,7 @@ That's fine.  But there's more to being functional than just doing awesome work.
 
 * Find funding, or give fair notice when funding is going to lapse.
 * Make himself available for meetings as necessary.
-* "Fly cover" for administrative, paperwork, and grant-reporting issues.
+* Cover administrative, paperwork, and grant-reporting issues.
 * Provide scientific leadership.
 * Provide career guidance and help group members work towards *their* career goals
   * Promote visibility for current and former group members.
@@ -76,19 +78,19 @@ That's fine.  But there's more to being functional than just doing awesome work.
 
 ## Weekly summaries
 
-Everyone is expected to file brief weekly summaries covering what they've been
+Everyone should file brief weekly summaries covering what they've been
 up to; this provides both JJ and the group member with context and
 trajectory going forward, and means that in-person meetings can focus
 on specific issues rather than be more general reporting.
 
 Filing weekly summaries is part of being a group member.  Repeated failure
-to file weekly reports may be taken to imply that you no longer wish
+to file weekly reports implies that you no longer wish
 to be a member of the group.  Note  that it is **not** JJ's job to
 remind you to submit weekly reports.
 
 ----
 
-Weekly reports can and should be minimalist - basically, list
+Weekly reports can and should be minimalist - list:
 
 * what you've been working on, including progress made
   and obstacles overcome;
@@ -98,41 +100,32 @@ Weekly reports can and should be minimalist - basically, list
 
 Most of the summary can  be copy-pasted from the previous week;
 feel free to do so.  If it takes you more than 10 minutes to do each
-week, you're probably overdoing it.
+week, you'r overdoing it.
 
 ----
 
-Weekly summaries should be filed *weekly*, and generally by the same
-time each week, as long as you let JJ know when that is (e.g. by
-Friday 5pm; or by Monday noon; or...)
+Members should file summaries  *weekly*, and generally by the same time each week.  Let JJ know when to expect them (e.g. by Friday 5pm; or by Monday noon; or...)
 
-If you are taking time off, then note that in advance and don't submit
-weekly reports during that period.
+If you are taking time off, then note that in advance and don't submit weekly reports during that period.
 
-If work-related travel is coming up, please submit a report BEFORE the
-travel and AFTER the travel.
+If work-related travel is coming up, please submit a report BEFORE the travel and AFTER the travel.
 
 ## Travel
 
 
 * Get permission from JJ before booking any travel over €200.
-  Under €200, "lazy consensus" can be applied, meaning email him and default is "yes"
+  Under €200, assume "lazy consensus", meaning email him and default is "yes"
   unless he raises an objection within 3 working days.  
   If the travel is more urgent, mention "urgent" in the email subject.
 
-* Travel should be booked 15 days in advance in order to be reimbursable.
+* Book travel 15 days in advance for it be reimbursable.
 
-* To get reimbursed for trips, contact Sylvie with your reimbursement
-  request and please CC JJ on the e-mail.
+* Contact Sylvie with your reimbursement request and please CC  JJ on the e-mail.
 
 ## Orders
 
 
-The group money is to be used for support of our research goals; so,
-JJ will tend to consider requests to buy research tangibles
-(computers, books, etc.) favorably .  Please sketch out the need in a
-sentence, price things out roughly, and identify alternatives (more and/or
-  less expensive).
+JJ approves most research tangibles (computers, books, etc.).  Please motivate, price things out roughly, and identify alternatives.
 
 Under €1800,
 
@@ -141,8 +134,7 @@ Check following before ordering
     * Library for books/journals etc.
     * Laurent for software licenses etc.
 
-* Orders under €1800 can be done without a ton of paperwork after clearing with JJ.
-
+* Orders under €1800 happen without a ton of paperwork after clearing with JJ.
 
 ------------------------
 

@@ -7,11 +7,8 @@ main:
   - title: "Code of Conduct"
     url: /conduct/
 
-#  - title: "Group philosophy"
-#    url: /philosophy/
-
-#  - title: "Contacting or joining"
-#    url: /contact/
+  - title: "What we do"
+    url: /whatwedo/
 
   - title: "Work guidelines"
     url: /workguidelines/
