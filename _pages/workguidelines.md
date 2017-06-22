@@ -83,11 +83,6 @@ up to; this provides both JJ and the group member with context and
 trajectory going forward, and means that in-person meetings can focus
 on specific issues rather than be more general reporting.
 
-Filing weekly summaries is part of being a group member.  Repeated failure
-to file weekly reports implies that you no longer wish
-to be a member of the group.  Note  that it is **not** JJ's job to
-remind you to submit weekly reports.
-
 ----
 
 Weekly reports can and should be minimalist - list:
