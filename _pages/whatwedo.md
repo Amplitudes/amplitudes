@@ -30,7 +30,7 @@ We believe that ultimately the best way to reach our personal career goals, no m
 
 ## Group name
 
- The active part of our group name is shared by a programming paradigm that also prefers placing focus on the logic of what should be accomplished rather then be tied to details of particular implementations. We think this is a good way to do physics. For more information see [Naming a research group](http://prettyquestions.com/thoughts/Naming_a_research_group/).
+ The active part of our group name is shared by a programming paradigm that also prefers placing focus on the logic of what should be accomplished rather then be tied to details of particular implementations. We think this is a good way to do physics. For more information see, [*"Naming a research group"*](http://prettyquestions.com/thoughts/Naming_a_research_group/).
 
 ## Open science
 
