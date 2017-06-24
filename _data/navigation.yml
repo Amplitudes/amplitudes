@@ -19,5 +19,8 @@ main:
   - title: "Resources for New Members"
     url: /newResources/
 
+  - title: "Grants"
+    url: /grants/
+
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
