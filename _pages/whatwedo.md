@@ -19,10 +19,9 @@ The Declarative Theoretical Physics group pursues broad interests in fundamental
 * precision cosmology;
 * gravitational astrophysics.
 
-You are welcome to perceive, if you like, a certain gravity-focused theme weaving its way through all of this.  Our passion is to understand the rules of the universe relevant to whatever scales we are considering.
+Feel free to perceive, as you like, a certain gravity-focused theme weaving its way through all of this.  Our passion is to understand the rules of the universe relevant to whatever scales we are considering.
 
 As we confront ever more subtle questions, the future of physical discovery will progress all the more rapidly through profound engagement with computation and data analysis.  This is just as true, if not more so, for us analytic theorists as our experimental and  simulation-building colleagues. We see it as part of our mission to celebrate the creative use of code for exploration, construction, verification, and analysis.
-
 
 ## Developmental Mission Statement
 
@@ -30,7 +29,7 @@ We believe that ultimately the best way to reach our personal career goals, no m
 
 ## Group name
 
- The active part of our group name is shared by a programming paradigm that also prefers placing focus on the logic of what should be accomplished rather then be tied to details of particular implementations. We think this is a good way to do physics. For more information see, [*"Naming a research group"*](http://prettyquestions.com/thoughts/Naming_a_research_group/).
+  JJ playfully named our group in reference to a programming paradigm that also prefers placing focus on the logic of *what* should be accomplished rather than be tied to details of particular implementations. We think this is a good way to do physics. For more information see, [*"Naming a research group"*](http://prettyquestions.com/thoughts/Naming_a_research_group/).
 
 ## Open science
 
@@ -39,3 +38,4 @@ We believe that ultimately the best way to reach our personal career goals, no m
 * All papers are submitted to preprint servers.
 * All *analytic* data, when sufficiently complicated, should be presented in a readily machine parsable form linked to from relevant publications.
 * All code when released, should be released with source under *an* [open license](https://choosealicense.com).
+* Share grant/workshop/training proposals (funded or not) as soon as feasible.

@@ -44,3 +44,4 @@ Funded in part by the [European Union's Horizon 2020 Framework Program](https://
 
 ------------------
 See [credits](/credits/) for links to influential websites.
+{: style="color:gray; font-size: 80%; text-align: right;"}

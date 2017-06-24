@@ -11,7 +11,7 @@ author_profile: false
 read_time: true
 ---
 
-We work at the pleasure of money granted from either private institutions or through the trust of the public.  In either case we have an obligation to see this money is  well-spent.  I don't think this means a lot of bureaucracy, but I do think it means a periodic and active reflection on:
+We work at the pleasure of money granted from either private institutions or through the trust of the public.  In either case we have an obligation to see we spend this money well.  I don't think this means a lot of bureaucracy, but I do think it means a periodic and active reflection on:
  * what our responsibilities are;
  * how efficient we are in communicating with each other;
  * how efficient we are in communicating with our greater scientific community and the interested public.
@@ -20,11 +20,15 @@ I tend to think of these types of guidelines as coordinating documents; not lega
 
 I looked around to see if I could find some examples, and surprisingly enough, there wasn't a lot for theoretical physics[^source]. It was as if the only guideline that mattered was the one already ingrained in all of us: *do awesome work*.
 
-[^source]:   The writeup I felt closest to my ideal starting point was [Titus  Brown's](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.  While exploring his site I also came across his "Lab Code of Conduct", which is an excellent idea, and one I've [incorporated](/code_of_conduct/).
+[^source]:   The writeup I felt closest to my ideal starting point was [Titus  Brown's](http://ivory.idyll.org/lab/work-guidelines.html), from which I did indeed lift shamelessly.  While exploring his site I also came across his excellent "Lab Code of Conduct", which I've [incorporated](/code_of_conduct/).
 
 That's fine.  But there's more to being functional than just doing awesome work.
 
 -JJMC, 18 June 2017
+{: style="color:gray; font-size: 80%; text-align: right;"}
+
+---------------------------------------------
+
 
 # Responsibilities of group members
 
@@ -46,8 +50,8 @@ That's fine.  But there's more to being functional than just doing awesome work.
 
 ## JJ's responsibilities as PI:
 
-* Find funding, or give fair notice when funding is going to lapse.
-* Make himself available for meetings as necessary.
+* Find funding, or give fair notice when funding will lapse.
+* Make himself available and accessible.
 * Cover administrative, paperwork, and grant-reporting issues.
 * Provide scientific leadership.
 * Provide career guidance and help group members work towards *their* career goals
@@ -102,13 +106,13 @@ week, you'r overdoing it.
 Members should file summaries  *weekly*, and generally by the same time each week.  Let JJ know when to expect them.  e.g.
   > JJ, expect my reports by Monday 4:30 pm. -XXX
 
-If you are taking time off, then note that in advance and don't submit weekly reports during that period.
+If taking time off, then note that in advance and don't submit weekly reports during that period.
 
 
 ## Travel
 
 * Get permission from JJ before booking any travel over €200.
-  Under €200, email him and default is "yes"
+  Under €200, email him assuming a default of "yes"
   unless he raises an objection within 3 working days.  
   If the travel is more urgent, mention "urgent" in the email subject.
 
@@ -123,7 +127,7 @@ JJ approves most research tangibles (computers, books, etc.).  Please motivate, 
 
 Under €1800,
 
-* Under €200,  Email JJ, and default is "yes" if he doesn't respond within 3 working days.
+* Under €200,  Email JJ, assuming default of "yes" unless he objects within 3 working days.
 Check following before ordering
     * Library for books/journals.
     * Laurent for software licenses.
