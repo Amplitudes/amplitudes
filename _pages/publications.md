@@ -15,7 +15,7 @@ Most recent HEP/Astro/Cosmology papers from group members can be found on inSPIR
 Any other publications/posts/outreach can be found using the respective *additional information* links
 on the [member page](/members/).
 
-Publications of current members should appear via inSPIRE in the following *iframe*:
+Publications of current members should appear via inSPIRE in the following `inserted frame`:
 
 (loading may take a few seconds)
 {: style="color:gray; font-size: 80%; text-align: right;"}
