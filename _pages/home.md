@@ -20,11 +20,9 @@ The goal is deep physical insight, with a joy in developing and leveraging --- f
 
 Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members are encouraged to invoke algorithms and automation to aid in tactically navigating the diverging tree of candidate moves.
 
-
   The group is located on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), in the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-  The group is run by [Dr. John Joseph M. Carrasco](http://prettyquestions.com), Permanent Member of IPhT; you can see most of the recent publications of the group members 
-  at the link [DTP group publications](http://inspirehep.net/search?ln=en&ln=en&p=find+a+J.J.M.Carrasco.1+or+a+Michele.Levi.1+or+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=250&sc=0). You can read more about the group members under [Group members](/publications/).
+  The group is run by [Dr. John Joseph M. Carrasco](http://prettyquestions.com), Permanent Member of IPhT. You can find most of the group's publications using the link [DTP group publications](http://inspirehep.net/search?ln=en&ln=en&p=find+a+J.J.M.Carrasco.1+or+a+Michele.Levi.1+or+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=250&sc=0). You can learn more about individual group members  [Group members](/publications/).
 
   The lab mailing address is:
 
@@ -37,3 +35,7 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
   F-91191 Gif-sur-Yvette Cedex
   FRANCE
 ```
+
+Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/).
+<img src="/images/LOGO-ERC.jpg" alt="ERC Logo">
+<img src="/images/eu_flag.jpg" alt="eu_flag">
