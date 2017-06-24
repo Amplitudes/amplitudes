@@ -22,5 +22,8 @@ main:
   - title: "Funding"
     url: /funding/
 
+  - title: "Credits"
+    url: /credits/
+
   - title: "Terms &amp; Privacy Policy"
     url: /terms/

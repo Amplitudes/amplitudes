@@ -36,6 +36,11 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
   FRANCE
 ```
 
+-----------------
+
 Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/).
 <img src="/images/LOGO-ERC.jpg" alt="ERC Logo">
 <img src="/images/eu_flag.jpg" alt="eu_flag">
+
+------------------
+See [credits](/credits/) for links to influential websites.

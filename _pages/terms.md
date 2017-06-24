@@ -3,15 +3,16 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
 author_profile: false
+read_time: true
 ---
 
 {% include base_path %}
 
 ## Privacy Policy
 
-The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, we will never share your email address or any other personal information to anyone without your direct consent.
+First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
 ### Log Files
 
