@@ -4,6 +4,9 @@ main:
   - title: "Members and Visitors"
     url: /members/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Code of Conduct"
     url: /conduct/
 

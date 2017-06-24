@@ -10,6 +10,8 @@
  *
 */
 
+
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -37,3 +39,5 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@import "./vendor/invenio_inspire.css";
+@import "./vendor/hepdata.css";

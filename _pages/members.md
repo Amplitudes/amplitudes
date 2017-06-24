@@ -28,4 +28,11 @@ author_profile: false
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Andrés Luna Godoy       | University of Glasgow | Months: March, May | [inSPIRE](http://inspirehep.net/author/profile/A.Luna.1)   |
-| Jake Bourjaily          | Neils Bohr Institute  | 24 Jan 17 - 1 Feb 17                   | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
+| Jake Bourjaily          | Neils Bohr Institute  | 24 Jan - 1 Feb                   | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
+
+## 2016 Group Visitors
+
+| Name                    | Home Institution      |  Dates                           | More Information                                          |
+| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Carlos Mafra       | University of Southampton | 7 Aug - 12 Aug  | [inSPIRE](http://inspirehep.net/author/profile/C.R.Mafra.1)   |
+| Oliver Schlotterer          | AEI Potsdam  |  7 Aug - 12 Aug                   | [inSPIRE](http://inspirehep.net/author/profile/O.Schlotterer.1) |
