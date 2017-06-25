@@ -45,3 +45,19 @@ Funded in part by the [European Union's Horizon 2020 Framework Program](https://
 ------------------
 See [credits](/credits/) for links to influential websites.
 {: style="color:gray; font-size: 80%; text-align: right;"}
+
+-------------------
+
+# Sitemap
+
+A simple list of our pages:
+
+* [Members and Visitors](/members/)
+* [Publications](/publications/)
+* [Code of Conduct](/conduct/)
+* [What We Do](/whatwedo/)
+* [Work Guidelines for Group Members](/workguidelines/)
+* [Resources for New Members](/newResources/)
+* [Funding](/funding/)
+* [Credits](/credits/)
+* [Terms & Privacy Policy](/terms/)

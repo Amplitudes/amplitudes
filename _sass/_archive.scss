@@ -59,7 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-4;
 
   & + p {
     text-indent: 0;
@@ -80,6 +80,7 @@
   }
 
   .archive__item-title {
+    font-size: $type-size-3;
     text-decoration: underline;
   }
 }
