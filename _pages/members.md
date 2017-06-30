@@ -23,16 +23,11 @@ author_profile: false
 
 
 
-## 2017 Group Visitors
+## Recent Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Andrés Luna Godoy       | University of Glasgow | Months: March, May | [inSPIRE](http://inspirehep.net/author/profile/A.Luna.1)   |
-| Jake Bourjaily          | Neils Bohr Institute  | 24 Jan - 1 Feb                   | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
-
-## 2016 Group Visitors
-
-| Name                    | Home Institution      |  Dates                           | More Information                                          |
-| ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Carlos Mafra       | University of Southampton | 7 Aug - 12 Aug  | [inSPIRE](http://inspirehep.net/author/profile/C.R.Mafra.1)   |
-| Oliver Schlotterer          | AEI Potsdam  |  7 Aug - 12 Aug                   | [inSPIRE](http://inspirehep.net/author/profile/O.Schlotterer.1) |
+| Andrés Luna Godoy       | University of Glasgow | March & May 2017| [inSPIRE](http://inspirehep.net/author/profile/A.Luna.1)   |
+| Jake Bourjaily          | Neils Bohr Institute  | 24 Jan - 1 Feb 2017  | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
+| Carlos Mafra       | University of Southampton | 7 Aug - 12 Aug 2016 | [inSPIRE](http://inspirehep.net/author/profile/C.R.Mafra.1)   |
+| Oliver Schlotterer  | AEI Potsdam  |  7 Aug - 12 Aug 2016 | [inSPIRE](http://inspirehep.net/author/profile/O.Schlotterer.1) |

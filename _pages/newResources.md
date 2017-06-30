@@ -28,7 +28,7 @@ Make sure to ask JJMC to update the web site after any pull requests.
 2. Data repositories[^dataCite]
       * [Dataverse](http://thedata.org): "A repository for research data that takes care of long-term preservation and good archival practices, while   researchers can share, keep control of, and get recognition for their data."
       * [FigShare](http://figshare.com): "A repository where users can make all of their research outputs available in a citable, shareable, and discoverable manner."
-      * [Zenodo](http://zenodo.org): "A repository service that enables researchers, scientists, projects, and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of existing institutional or subject-based repositories."
+      * [Zenodo](http://zenodo.org): "A repository service that enables researchers, scientists, projects, and institutions to share and showcase multidisciplinary research results (data and publications) that are not part of existing institutional or subject-based repositories."  CERN related.
       * [Dryad](http://datadryad.org): "A repository that aims to make data archiving as simple and as rewarding as possible through a suite of services not necessarily provided by publishers or institutional websites."
       * [DataBib](http://databib.org): "Databib is a tool for helping people identify and locate online repositories of research data. Users and bibliographers create and curate records that describe data repositories that users can search."
       * [Re3data.org](http://www.re3data.org): "Re3data is a global registry of research data repositories from different academic disciplines for researchers, funding bodies, publishers, and scholarly institutions."
@@ -40,5 +40,7 @@ Make sure to ask JJMC to update the web site after any pull requests.
    * [BitBucket](https://bitbucket.org): hosting service using  [git](http://git-scm.com) or [mercurial](http://mercurial.selenic.com).
    * [gitlab](http://gitlab.com):  hosting service using [git](http://git-scm.com)
         * [gitlab vs github](https://www.quora.com/How-does-Gitlab-compare-to-Github)
+4. "Citable" code (??)
+    * [zenodo](http://zenodo.org) Links to github, [instructions](https://guides.github.com/activities/citable-code/)
 
 [^dataCite]: Data repository description quotes taken directly from [Goodman A, Pepe A, Blocker AW, Borgman CL, Cranmer K, et al. (2014) Ten Simple Rules for the Care and Feeding of Scientific Data. PLoS Comput Biol 10(4): e1003542. doi:10.1371/journal.pcbi.1003542](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3998871/pdf/pcbi.1003542.pdf)
