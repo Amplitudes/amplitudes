@@ -10,6 +10,7 @@ header:
 author_profile: false
 read_time: true
 ---
+{% include toc %}
 
 We work at the pleasure of money granted from either private institutions or through the trust of the public.  In either case we have an obligation to see we spend this money well.  I don't think this means a lot of bureaucracy, but I do think it means a periodic and active reflection on:
  * what our responsibilities are;

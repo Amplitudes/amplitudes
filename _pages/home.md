@@ -8,6 +8,11 @@ header:
   caption: ""
 author_profile: false
 excerpt: Focussed on the *what* of physical predictions, allowing creative play in probing the universe's *how*.
+feature_row:
+  - image_path: LOGO-ERC.jpg
+    alt: "ERC logo"
+  - image_path: eu_flag.jpg
+    alt: "EU Flag"
 ---
 
 {% include base_path %}
@@ -39,8 +44,9 @@ Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess)
 -----------------
 
 Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) via the 2014-ERC-stg: [Strategic Predictions for Quantum Field Theories (preQFT)](/funding/).
-<img src="/images/LOGO-ERC.jpg" alt="ERC Logo">
-<img src="/images/eu_flag.jpg" alt="eu_flag">
+
+| <img src="/images/LOGO-ERC.jpg" alt="ERC Logo"> | <img src="/images/eu_flag.jpg" alt="eu_flag"> |
+
 
 ------------------
 See [credits](/credits/) for links to influential websites.
