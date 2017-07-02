@@ -1,6 +1,6 @@
 ---
 title: "Declarative Theory Group's Code of Conduct"
-layout: splash
+layout: single
 permalink: /conduct/
 header:
   overlay_color: "#5e616c"

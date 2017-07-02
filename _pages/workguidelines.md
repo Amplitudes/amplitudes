@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /workguidelines/
 title: "Work guidelines for members of the group"
 header:
