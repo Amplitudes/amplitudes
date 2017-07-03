@@ -33,3 +33,5 @@ Very specifically, initial content and organization strongly influenced by:
 
     -JJMC, 22 June 2017
     {: style="color:gray; font-size: 80%; text-align: right;"}
+
+(see also [JJ's personal site's credits](http://prettyquestions.com/credits).)
