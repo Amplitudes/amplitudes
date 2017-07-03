@@ -1,6 +1,6 @@
 ---
 permalink: /credits/
-layout: splash
+layout: single
 title: "Credits"
 modified: 2016-06-22
 header:
