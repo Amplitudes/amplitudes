@@ -19,6 +19,10 @@ Welcome!  This is for new group members / visitors.
 
 Make sure to ask JJMC to update the web site after any pull requests.
 
+## Setup
+1. [QFT Cluster](/cluster/)
+2. [Mac setup](/mac/)
+
 ## Platforms/Tech geared towards / facilitating open science...
 
 0. [ORCID](orcid.org)  online record id.  [arXiv](https://arxiv.org/help/orcid) will be using orcid id preferentially as time goes on so good to link up.  
