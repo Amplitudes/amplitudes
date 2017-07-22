@@ -26,11 +26,10 @@ author_profile: false
 * Evernote
 * DjView (to immediately convert djvu to something else when I need to, then delete the djvu file which somehow messes with the finder)
 * Keynote for presentations and [LaTeXiT](https://www.chachatelier.fr/latexit/latexit-downloads.php?lang=en) for integrating better TeX'd expressions
-* [Cuba](http://www.feynarts.de/cuba/) monte-carlo integration Library
+* [Cuba](http://www.feynarts.de/cuba/) monte-carlo integration library.
 
 
-
-# Generically handy dev environment tips from web-app folk:
+# Generically handy mac dev environment tips from web-app folk:
 
 * [http://www.stuartellis.name/articles/mac-setup/](http://www.stuartellis.name/articles/mac-setup/)
 * [http://blog.rangle.io/the-sweet-mac-setup/](http://blog.rangle.io/the-sweet-mac-setup/)
