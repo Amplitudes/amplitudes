@@ -27,8 +27,10 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Jake Bourjaily          | Neils Bohr Institute  | 13 Mar  - 21 Mar 2018  | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
+| Donak O'Connell       | University of Edinburgh  | 20 Feb - 23 Feb 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 8 Nov - 13 Nov 2017 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
-| Simon Foreman       | CITA  | 16 Oct - 19 Oct 2017| [Simon's CITA page](http://www.cita.utoronto.ca/~sforeman/)   |
+| Simon Foreman       | CITA  | 16 Oct - 19 Oct 2017| [CITA](http://www.cita.utoronto.ca/~sforeman/)   |
 | Andrés Luna Godoy       | University of Glasgow | March & May 2017| [inSPIRE](http://inspirehep.net/author/profile/A.Luna.1)   |
 | Jake Bourjaily          | Neils Bohr Institute  | 24 Jan - 1 Feb 2017  | [Jake's home page](http://www-personal.umich.edu/~jbourj/) |
 | Carlos Mafra       | University of Southampton | 7 Aug - 12 Aug 2016 | [inSPIRE](http://inspirehep.net/author/profile/C.R.Mafra.1)   |
