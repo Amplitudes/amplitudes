@@ -29,5 +29,5 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and Web Beacons
 
-No tracking cookies nor web-beacons should be set by this site.  
+Neither tracking cookies nor web-beacons should be set by this site.  
 
