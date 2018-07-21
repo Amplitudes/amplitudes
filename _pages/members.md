@@ -27,7 +27,7 @@ author_profile: false
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
-| Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2017 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
+| Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2018 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
 | Mani L. Bhaumik       |  Los Angeles | 16 May 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/biography.html)  |
 | Jacob Bourjaily          | Neils Bohr Institute  | 13 Mar  - 21 Mar 2018  | [Jacob's home page](http://www-personal.umich.edu/~jbourj/) |
 | Donak O'Connell       | University of Edinburgh  | 20 Feb - 23 Feb 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
