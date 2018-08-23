@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Welcome to the Northwestern University / IPhT Group for Declarative Theoretical Physics."
+title: "Welcome to the Northwestern University / Paris-Saclay Group for Declarative Theoretical Physics."
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
@@ -25,7 +25,7 @@ The goal is deep physical insight, with a joy in developing and leveraging --- f
 
 Like players of [*advanced chess*](https://en.wikipedia.org/wiki/Advanced_Chess), group members are encouraged to invoke algorithms and automation to aid in tactically navigating the diverging tree of candidate moves.
 
-  The group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts \& Sciences of [Northwestern University](https://www.northwestern.edu) in the USA and in the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en) in France.
+  With JJ Carrasco joining the faculty at Northwestern University the group now has an international presence. In the USA the group is located along the lake just north of Chicago in the [Department of Physics and Astronomy](https://www.physics.northwestern.edu) of the Weinberg College of Arts and Sciences of [Northwestern University](https://www.northwestern.edu).  In France, the group is hosted on the [Saclay plateau](https://en.wikipedia.org/wiki/Paris-Saclay), at the [Institute for Theoretical Physics (IPhT)](http://ipht.cea.fr/en/), [CEA-Saclay](http://www-centre-saclay.cea.fr/en) and [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
   The group is run by [Prof. John Joseph M. Carrasco](http://prettyquestions.com). You can find most of the group's publications [here](/publications/). You can learn more about individual group members [here](/members/).
 

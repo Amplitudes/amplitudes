@@ -17,7 +17,7 @@ author_profile: false
 
 | Name                    | Position                            |  More Information     |
 | ----------------------- |------------------------------------ |---------------------- |
-| John Joseph M. Carrasco | Group Leader, Assoc. Prof at NU and Member of IPhT | [http://prettyquestions.com](http://prettyquestions.com)|
+| John Joseph M. Carrasco | Group Leader, [Prof. at NU](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Assoc. Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com)|
 | Michele Levi            | Postdoc, IPhT Member                | [https://sites.google.com/view/levim/home](https://sites.google.com/view/levim/home)|
 | Laurentiu Rodina        | Postdoc, IPhT Member                | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0)|
 | Ingrid Vazquez-Holm | Ph.D student, IPhT Member                | |
@@ -29,11 +29,11 @@ author_profile: false
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
 | Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
-| Donak O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
+| Donal O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2018 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
 | Mani L. Bhaumik       |  Los Angeles | 16 May 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/biography.html)  |
 | Jacob Bourjaily          | Neils Bohr Institute  | 13 Mar  - 21 Mar 2018  | [Jacob's home page](http://www-personal.umich.edu/~jbourj/) |
-| Donak O'Connell       | University of Edinburgh  | 20 Feb - 23 Feb 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
+| Donal O'Connell       | University of Edinburgh  | 20 Feb - 23 Feb 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 8 Nov - 13 Nov 2017 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
 | Simon Foreman       | CITA  | 16 Oct - 19 Oct 2017| [CITA](http://www.cita.utoronto.ca/~sforeman/)   |
 | Andrés Luna Godoy       | University of Glasgow | March & May 2017| [inSPIRE](http://inspirehep.net/author/profile/A.Luna.1)   |
