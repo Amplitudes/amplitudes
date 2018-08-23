@@ -17,16 +17,19 @@ author_profile: false
 
 | Name                    | Position                            |  More Information     |
 | ----------------------- |------------------------------------ |---------------------- |
-| John Joseph M. Carrasco | Group Leader, IPhT Permanent Member | [http://prettyquestions.com](http://prettyquestions.com)|
+| John Joseph M. Carrasco | Group Leader, Assoc. Prof at NU and Member of IPhT | [http://prettyquestions.com](http://prettyquestions.com)|
 | Michele Levi            | Postdoc, IPhT Member                | [https://sites.google.com/view/levim/home](https://sites.google.com/view/levim/home)|
 | Laurentiu Rodina        | Postdoc, IPhT Member                | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0)|
+| Ingrid Vazquez-Holm | Ph.D student, IPhT Member                | |
 
 
 
-## Recent Group Visitors
+## Recent IPhT-Group Visitors
 
 | Name                    | Home Institution      |  Dates                           | More Information                                          |
 | ----------------------- | --------------------- | -------------------------------- | --------------------------------------------------------  |
+| Zvi Bern       |  UCLA |  28 July - 29 July 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/)  |
+| Donak O'Connell       | University of Edinburgh  | 24 July - 27 July 2018 | [Edinburgh](https://www.ph.ed.ac.uk/people/donal-oconnell)  |
 | Henrik Johansson       | Uppsala and  NORDITA  | 16 May - 20 May 2018 | [Uppsala](http://www.physics.uu.se/research/theoretical-physics/people/henrik-johansson/) / [NORDITA](https://www.nordita.org/people/staff/index.php?u=henrik.johansson)  |
 | Mani L. Bhaumik       |  Los Angeles | 16 May 2018 | [Bhaumik Institute](http://bhaumik-institute.physics.ucla.edu/biography.html)  |
 | Jacob Bourjaily          | Neils Bohr Institute  | 13 Mar  - 21 Mar 2018  | [Jacob's home page](http://www-personal.umich.edu/~jbourj/) |
