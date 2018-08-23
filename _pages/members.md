@@ -18,7 +18,7 @@ author_profile: false
 | Name                    | Position                            |  More Information     |
 | ----------------------- |------------------------------------ |---------------------- |
 | John Joseph M. Carrasco | Group Leader, [Prof. at NU](https://www.physics.northwestern.edu/people/faculty/core-faculty/) and [Assoc. Member of IPhT](https://www.ipht.fr/en/Phocea/Membres/Annuaire/index.php?uid=jcarrasc) | [http://prettyquestions.com](http://prettyquestions.com)|
-| Michele Levi            | Postdoc, IPhT Member                | [https://sites.google.com/view/levim/home](https://sites.google.com/view/levim/home)|
+| Michele Levi            | Postdoc, IPhT Member                | [Defying Gravity](https://sites.google.com/view/levim/home)|
 | Laurentiu Rodina        | Postdoc, IPhT Member                | [inSPIRE](http://inspirehep.net/search?ln=en&ln=en&p=find+a+l+rodina&of=hb&action_search=Search&sf=&so=d&rm=&rg=100&sc=0)|
 | Ingrid Vazquez-Holm | Ph.D student, IPhT Member                | |
 
