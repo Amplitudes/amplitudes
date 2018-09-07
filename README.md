@@ -1,6 +1,6 @@
-# [Declarative Theoretical Physics Group Page](https://dtp-group.github.io/dtp-group/)
+# [Amplitudes Page](https://amplitudes.github.io/amplitudes/)
 
-Site source for the DTP Group at IPhT, CEA-Saclay & University of Paris-Saclay.
+Coming soon.
 
 Using [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
