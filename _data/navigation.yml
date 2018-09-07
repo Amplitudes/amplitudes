@@ -1,29 +1,3 @@
 
 # main links links
 main:
-  - title: "Members and Visitors"
-    url: /members/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Code of Conduct"
-    url: /conduct/
-
-  - title: "What We Do"
-    url: /whatwedo/
-
-  - title: "Work Guidelines"
-    url: /workguidelines/
-
-  - title: "Resources for New Members"
-    url: /newResources/
-
-  - title: "Funding"
-    url: /funding/
-
-  - title: "Credits"
-    url: /credits/
-
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
