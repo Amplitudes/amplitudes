@@ -3,5 +3,5 @@
 main:
   - title: "Integrands Repository"
     url: /integrands/
-  - title: "Upcoming Events"
-    url: /events/
+  - title: "Software Libraries"
+    url: /software/

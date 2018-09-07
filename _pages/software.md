@@ -1,7 +1,7 @@
 ---
-permalink: /events/
+permalink: /software/
 layout: splash
-title: "Events"
+title: "Software"
 modified: 2018-07-21
 header:
   overlay_color: "#5e616c"
@@ -13,5 +13,4 @@ author_profile: false
 
 {% include base_path %}
 
-##  Upcoming events.
-
+##  Software libaries ala https://www.ogrants.org 
