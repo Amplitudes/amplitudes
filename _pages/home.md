@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: Amplitudes"
+title: "Amplitudes"
 header:
   overlay_color: "#5e616c"
   overlay_image: jjTheoryGryInf.jpg
@@ -16,4 +16,6 @@ feature_row:
 ---
 
 {% include base_path %}
+
+## Invariance is as invariance does.
 
