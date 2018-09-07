@@ -1,23 +1,5 @@
 
 # main links links
 main:
-  - title: "Group members"
-    url: /members/
-
-  - title: "Group Code of Conduct"
-    url: /conduct/
-
-  - title: "Group philosophy"
-    url: /about/
-
-  - title: "Contacting or joining"
-    url: /contact/
-
-  - title: "Work guidelines for members"
-    url: /collection-archive/
-
-  - title: "Resources for new members"
-    url: /collection-archive/
-
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+#  - title: "Group members"
+#    url: /members/
