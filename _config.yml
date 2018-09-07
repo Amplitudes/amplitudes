@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DTP Group"
+title                    : "Amplitudes.org"
 title_separator          : "-"
 name                     : &name "John Joseph M. Carrasco"
-description              : &description "Website for John Joseph Carrasco's Declarative Theoretical Physics Group at the Institute for Theoretical Physics, CEA-Saclay.  We explore scattering amplitudes, gravity, and quantum field theory."
-url                      : "http://fancyphysics.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Coming soon."
+url                      : "http://amplitudes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dtp-group/dtp-group"
+repository               : "amplitudes/amplitudes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
