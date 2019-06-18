@@ -2,7 +2,7 @@
 layout: archive
 permalink: /tags/
 title: "Posts by Tags"
-author_profile: true
+author_profile: false
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
