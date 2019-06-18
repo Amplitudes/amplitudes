@@ -18,6 +18,22 @@ author: John_Joseph
 pinned: true
 ---
 {% include base_path %}
+## Two for the price of one!  Virtually simultaneous results from two groups.
+
+## 17 Jan 2019
+
+# Link:
+Paper and Mathematica expressions.
+  * [The two-loop five-particle amplitude in N=8 supergravity](https://arxiv.org/abs/1901.05932)
+  * [Mathematica expressions](https://arxiv.org/src/1901.005932/anc)
+
+# Author(s):
+D. Chicherin, T. Gehrmann, J. M. Henn, P. Wasser, Y. Zhang, S. Zoia
+
+# Abstract:
+We compute for the first time the two-loop five-particle amplitude in N=8 supergravity. Starting from the known integrand, we perform an integration-by-parts reduction and express the answer in terms of uniform weight master integrals. The latter are known to evaluate to non-planar pentagon functions, described by a 31-letter symbol alphabet. We express the final result for the amplitude in terms of uniform weight four symbols, multiplied by a small set of rational factors. The amplitude satisfies the expected factorization properties when one external graviton becomes soft, and when two external gravitons become collinear. We verify that the soft divergences of the amplitude exponentiate, and extract the finite remainder function. The latter depends on fewer rational factors, and is independent of one of the symbol letters. By analyzing identities involving rational factors and symbols we find a remarkably compact representation in terms of a single seed function, summed over all permutations of external particles. Finally, we work out the multi-Regge limit, and present explicitly the leading logarithmic terms in the limit. The full symbol of the IR-subtracted hard function is provided as an ancillary file.
+
+## 24 Jan 2019
 
 # Link:
 Paper and Mathematica expressions.
