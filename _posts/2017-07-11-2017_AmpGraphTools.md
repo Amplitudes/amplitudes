@@ -1,6 +1,6 @@
 ---
 title:  Amplitudes related Graph Tools
-excerpt: Simple implementation of some amplitudes related graph tools.
+excerpt: JJMC -- Simple implementation of some amplitudes related graph tools.
 header:
    teaser: fl360.gif
    overlay_color: "#5e616c"
