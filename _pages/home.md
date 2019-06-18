@@ -21,7 +21,6 @@ feature_row:
 
 This is an experiment in an open-community resource-linking. As currently conceived it's aiming to connect results, software, and lecture materials relevant to the scattering amplitudes community.
 
-# Site status: Beta rollout.
 
 # Have something you want to share?
   * First contact an admin of the [repository](https://github.com/Amplitudes/amplitudes/tree/gh-pages) just to check if it's in line with current site goals
