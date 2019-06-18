@@ -2,9 +2,9 @@
 title: The two-loop five-point amplitude in N=8 supergravity
 excerpt: Paper and Mathematica expressions.
 header:
-   teaser: fivePt.png
+   teaser: planar_penta_box_int_bcj_label_os.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: planar_penta_box_int_bcj_label_os.png
    overlay_filter: .6
 categories:
 - amplitudes

@@ -2,9 +2,9 @@
 title: All Summer School Lectures for Amplitudes 2017
 excerpt: Links to Video and Slides
 header:
-   teaser: fivePt.png
+   teaser: amp2017.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: amp2017.png
    overlay_filter: .6
 categories:
 - lectures

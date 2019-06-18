@@ -2,9 +2,9 @@
 title: N=4 SYM and N=8 SG 5-loop integrands
 excerpt: Paper and Mathematica expressions.
 header:
-   teaser: fivePt.png
+   teaser: 8masterbasis.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: 8masterbasis.png
    overlay_filter: .6
 categories:
 - integrands

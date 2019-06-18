@@ -2,9 +2,9 @@
 title: Non-abelian Z-theory
 excerpt: C. Mafra and O. Schlotterer -- Paper and form code.
 header:
-   teaser: fivePt.png
+   teaser: nonAbZ.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: nonAbZ.png
    overlay_filter: .6
 categories:
 - software

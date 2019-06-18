@@ -2,9 +2,9 @@
 title: Bourjaily -- Mathematica for N=4 Tree Amplitudes
 excerpt: Jacob Bourjaily -- Paper and Mathematica code.
 header:
-   teaser: fivePt.png
+   teaser: jacobBlogo.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: jacobBlogo.png
    overlay_filter: .6
 categories:
 - software

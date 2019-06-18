@@ -2,9 +2,9 @@
 title: Four-graviton scattering to three loops in N=8 supergravity
 excerpt: Paper and Mathematica expressions.
 header:
-   teaser: fivePt.png
+   teaser: 3loopN8Integrals.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: 3loopN8Integrals.png
    overlay_filter: .6
 categories:
 - amplitudes
