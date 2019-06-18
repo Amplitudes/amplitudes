@@ -23,7 +23,7 @@ pinned: true
 
 # Link:
 Paper and machine readable expressions.
-  * Paper: [Six-Gluon Amplitudes in Planar N=4 Super-Yang-Mills Theory at Six and Seven Loops](https://arxiv.org/abs/1902.07221)
+  * Paper: [Six-Gluon Amplitudes in Planar N=4 Super-Yang-Mills Theory at Six and Seven Loops](https://arxiv.org/abs/1903.10890)
   * [Huge Cosmically Normalized Mathematica Files](http://www.slac.stanford.edu/~lance/Cosmic/)
 
 # Author(s):
