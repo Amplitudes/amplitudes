@@ -2,9 +2,9 @@
 title: Two-loop supersymmetric QCD and half-maximal supergravity integrands
 excerpt: Paper and Mathematica expressions.
 header:
-   teaser: fivePt.png
+   teaser: SQCD.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: SQCD.png
    overlay_filter: .6
 categories:
 - integrands

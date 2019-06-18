@@ -2,9 +2,9 @@
 title: Integrated One and Two Loop Four-Point Super-QCD
 excerpt: Paper and Mathematica expressions.
 header:
-   teaser: fivePt.png
+   teaser: superQCDIntegrals.png
    overlay_color: "#5e616c"
-   overlay_image: fivePt.png
+   overlay_image: superQCDIntegrals.png
    overlay_filter: .6
 categories:
 - amplitudes
