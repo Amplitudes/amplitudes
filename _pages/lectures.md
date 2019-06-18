@@ -2,7 +2,7 @@
 permalink: /lectures/
 layout: splash
 title: "Lectures"
-modified: 2018-07-21
+modified: 2019-06-18
 header:
   overlay_color: "#5e616c"
   overlay_image: sixPtRelations.jpg
