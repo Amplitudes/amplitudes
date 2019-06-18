@@ -11,7 +11,7 @@ header:
 author_profile: false
 ---
 
-## Passports to the future etc.
+## Passports to the future...
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
