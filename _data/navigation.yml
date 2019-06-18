@@ -1,7 +1,13 @@
 
 # main links links
 main:
-  - title: "Integrands Repository"
+  - title: "Amplitudes (Integrated)"
+    url: /integrals/
+  - title: "Amplitudes (Integrands)"
     url: /integrands/
-  - title: "Software Libraries"
+  - title: "Code"
     url: /software/
+  - title: "Lectures"
+    url: /lectures/
+  - title: "All TAGS"
+    url: /tags/

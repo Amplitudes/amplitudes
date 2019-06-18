@@ -1,15 +1,19 @@
 # Authors
 
-John Joseph M. Carrasco:
+John_Joseph:
   name        : "John Joseph M. Carrasco"
-  uri         : "http://fancyphysics.com"
-  bio         : "Group Leader."
+  bio         : "Northwestern University and CEA's Institute for Theoretical Physics (IPhT)"
+  location    : "Chicago & Paris"
   avatar      : "me.jpg"
   twitter     : "jjmc"
-
-Michele Levi:
-  name        : "Michele Levi"
-  bio         : "Postdoc, Gravity"
+  facebook    : "drjjmc"
+  linkedin    : "johnjoe"
+  orcid       : "0000-0002-4499-8488"
+  github      : "drjjmc"
+  impactstory : "0000-0002-4499-8488"
+  inspirehep  : "J.J.M.Carrasco.1"
+  google_scholar     : "yWNpZHwAAAAJ"
+  google_plus : "JohnJosephCarrasco"
 
 FourOhFour:
   avatar        : "reimann.jpg"

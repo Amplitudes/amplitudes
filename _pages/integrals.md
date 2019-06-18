@@ -1,7 +1,7 @@
 ---
-permalink: /integrands/
+permalink: /integrals/
 layout: splash
-title: "Integrands"
+title: "Amplitudes (Integrated)"
 modified: 2018-07-21
 header:
   overlay_color: "#5e616c"
@@ -11,11 +11,11 @@ header:
 author_profile: false
 ---
 
-## An integrand in the hand vs. boundary terms in the bush.
+## I.e., the *actual* corrections to tree-level predictions.
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
-{% assign tag_words = "integrands,null" | split:',' }
+{% assign tag_words = "amplitudes,null" | split:',' }
 {% assign firstWord=tag_words[0] %}
 {% assign secondWord=tag_words[-1] %}
 <!-- first: {{ firstWord }} -->
