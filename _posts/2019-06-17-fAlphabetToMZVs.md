@@ -1,6 +1,6 @@
 ---
 title: Converting from Schnetz f-alphabet to MZVs through weight 14
-excerpt: Related paper and mathematica expressions.
+excerpt: Related paper and mathematica code.
 header:
    teaser: CubeSpecialPoints.png
    overlay_color: "#5e616c"
@@ -14,6 +14,7 @@ tags:
 - MZV
 - N=4 SYM
 - planar
+- mathematica
 author: John_Joseph
 pinned: true
 ---
@@ -22,7 +23,7 @@ pinned: true
 # Link:
 Paper and machine readable expressions.
   * Paper: [The Cosmic Galois Group and Extended Steinmann Relations for Planar N=4 SYM Amplitudes](https://arxiv.org/abs/1906.07116)
-  * [Conversions](https://arxiv.org/src/1906.07116v1/anc)
+  * [Conversion Code](https://arxiv.org/src/1906.07116v1/anc)
 
 # Author(s):
 Simon Caron-Huot, Lance J. Dixon, Falko Dulat, Matt von Hippel, Andrew J. McLeod, Georgios Papathanasiou
