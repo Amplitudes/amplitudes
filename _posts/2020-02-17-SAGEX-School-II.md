@@ -1,4 +1,4 @@
- - --
+---
 title: All Lectures for the second SAGEX scientific School (Homboldt University Berlin)
 excerpt: Links to Video and Slides
 header:
@@ -7,7 +7,7 @@ header:
    overlay_image: sagexSchool2.jpg
    overlay_filter: .6
 categories:
- -  lectures
+- lectures
 tags:
  - lectures
  - video
@@ -66,7 +66,7 @@ tags:
  - IBPs
  - transcendental weight
  - periods
- - iterated integrals
+-iterated integrals
 author: John_Joseph
 pinned: true
 ---
