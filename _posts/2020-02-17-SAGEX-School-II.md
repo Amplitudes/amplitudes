@@ -1,5 +1,5 @@
 ---
-title: All Lectures for the second SAGEX scientific School (Homboldt University Berlin)
+title: All Lectures for the second SAGEX scientific School (Homboldt-University-Berlin)
 excerpt: Links to Video and Slides
 header:
    teaser: sagexSchool2.jpg 
