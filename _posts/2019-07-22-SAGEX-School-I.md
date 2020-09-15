@@ -9,54 +9,54 @@ header:
 categories:
 - lectures
 tags:
--lectures
--video
--scattering amplitudes
--tree level
--MHV
--BCFW
--spinor helicity
--color ordered
--supersymmetry
--N=4
--integrability
--holography
--Liouville theorem
--conformal symmetry
--Superconformal symmetry
--dilatation operator
--spin chains
--Lax representation
--Neumann model
--GKP string
--string amplitudes
--uniform lightcone gauge
--loop amplitude
--integrand decomposition
--Graham determinants
--Feynman integrals
--optical theorem
--cuts
--Polylogarithms
--onshell methods
--factorization
--collinear limits
--topological expansion for strings
--correlation functions
--RNS worldsheet action
--vertex operators
--KLT
--BCJ relations
--Feynman parameters
--epsilon expansion
--Periods
--IBP relations
--dimensional regularization
--Multiple Polylogs
--Shuffle algebra
--Hopf algebra
--Goncharov
--Symbols
+- lectures
+- video
+- scattering amplitudes
+- tree level
+- MHV
+- BCFW
+- spinor helicity
+- color ordered
+- supersymmetry
+- N=4 SYM
+- integrability
+- holography
+- Liouville theorem
+- conformal symmetry
+- Superconformal symmetry
+- dilatation operator
+- spin chains
+- Lax representation
+- Neumann model
+- GKP string
+- string amplitudes
+- uniform lightcone gauge
+- loop amplitude
+- integrand decomposition
+- Graham determinants
+- Feynman integrals
+- optical theorem
+- cuts
+- Polylogarithms
+- onshell methods
+- factorization
+- collinear limits
+- topological expansion for strings
+- correlation functions
+- RNS worldsheet action
+- vertex operators
+- KLT
+- BCJ relations
+- Feynman parameters
+- epsilon expansion
+- Periods
+- IBP relations
+- dimensional regularization
+- Multiple Polylogs
+- Shuffle algebra
+- Hopf algebra
+- Goncharov
+- Symbols
 author: John_Joseph
 pinned: true
 ---
