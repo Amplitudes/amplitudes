@@ -10,14 +10,53 @@ categories:
 - lectures
 tags:
 - lectures
-- amplitudes
-- gluons
-- holography
-- integrability
-- feynman integrals
-- double copy
-- black holes
 - video
+- scattering amplitudes
+- massive spinor helicity
+- spinning massive particles
+- double copy
+- KLT
+- Compton amplitudes
+- factorization
+- classical black-hole scattering
+- hbar expansion
+- multiple zeta values
+- Feynman integrals
+- Shuffle algebra
+- PSLQ
+- PARI
+- letters
+- alphabet
+- Lyndon basis
+- Shuffle identities
+- iterated Eisenstein integrals
+- amplitudes meet experiment
+- LHC
+- intercations with detector
+- calorimetry
+- tracking
+- jet methods
+- parton shower
+- deep inelastic scattering
+- cross section
+- IR safety
+- parton distribution functions
+- MHV
+- splitting functions
+- Monte Carlo
+- virtual corrections
+- phase space
+- onshell diagrams
+- Grassmannian
+- supersymmetry
+- trees and forests
+- integral convergence
+- analytic continuation
+- convergence conditions
+- IBPs
+- transcendental weight
+- periods
+- iterated integrals
 author: John_Joseph
 pinned: true
 ---
