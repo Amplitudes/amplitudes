@@ -30,5 +30,5 @@ This is an experiment in an open-community resource-linking. As currently concei
 
 Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) under the Marie Skłodowska-Curie grant agreement No. 764850 ([SAGEX](https://sagex.org)). 
 
-| <img src="/images/eu_flag.jpg" alt="eu_flag" > | <img src="/images/Sagex.png" alt="SAGEX-Logo" > |
+| <img src="/images/eu_flag.jpg" alt="eu_flag" > | <img src="/images/Sagex.jpg" alt="SAGEX-Logo" > |
 
