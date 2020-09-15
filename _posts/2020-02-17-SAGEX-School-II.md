@@ -32,6 +32,7 @@ All [2020 SAGEX Scientific School II lectures](https://www.youtube.com/playlist?
 * Lance Dixon: Amplitudes meet experiments
 * Alexander Ochirov: Spinning massive particles and black holes
 * Erik Panzer: Feynman integrals
+
 # Description
 This is the second training school within the SAGEX Innovative Training Network of the European Commission - following the one organized at DESY Hamburg in summer 2019.
 
