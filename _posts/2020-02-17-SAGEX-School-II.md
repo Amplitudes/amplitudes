@@ -50,8 +50,8 @@ tags:
 - Grassmannian
 - supersymmetry
 - gluons
-- N=4
-- Lee&ndash;Pomeransky
+- N=4 SYM
+- Lee-Pomeransky
 - S matrix
 - BCFW bridge
 - path permutations
