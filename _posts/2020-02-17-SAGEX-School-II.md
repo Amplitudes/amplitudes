@@ -66,7 +66,7 @@ tags:
 - IBPs
 - transcendental weight
 - periods
--iterated integrals
+- iterated integrals
 author: John_Joseph
 pinned: true
 ---
