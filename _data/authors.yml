@@ -18,3 +18,12 @@ John_Joseph:
 
 FourOhFour:
   avatar        : "reimann.jpg"
+
+Manuel:
+  name        : "Manuel Accettulli Huber"
+  bio         : "Queen Mary University of London"
+  location    : "London"
+  avatar      : "manuel.jpg"
+  orcid       : "0000-0001-9320-7307"
+  github      : "accettullihuber"
+  inspirehep  : "M.Accettulli.Huber.3"
