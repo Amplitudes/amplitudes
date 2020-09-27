@@ -57,7 +57,7 @@ tags:
 - Hopf algebra
 - Goncharov
 - Symbols
-author: John_Joseph
+author: Manuel
 pinned: true
 ---
 {% include base_path %}

@@ -67,7 +67,7 @@ tags:
 - transcendental weight
 - periods
 - iterated integrals
-author: John_Joseph
+author: Manuel
 pinned: true
 ---
 {% include base_path %}
