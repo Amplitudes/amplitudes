@@ -9,5 +9,7 @@ main:
     url: /software/
   - title: "Lectures"
     url: /lectures/
+  - title: "Jobs"
+    url: /jobs/
   - title: "All TAGS"
     url: /tags/
