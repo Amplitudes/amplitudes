@@ -4,13 +4,11 @@ excerpt: Link to INSPIRES job posting
 header:
    teaser: sagexSchool2.jpg 
    overlay_color: "#5e616c"
+   overlay_image: sagexSchool2.jpg
    overlay_filter: .6
 categories:
 - jobs
 tags:
-- hep-ph
-- astro-ph
-- hep-th
 - postdoc
 author_profile: false
 pinned: true
