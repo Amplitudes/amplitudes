@@ -1,7 +1,8 @@
 ---
 title: Joint Beijing-Cornell Postdoc: HEP Physics and Cosmology 
-excerpt: Jacob Bourjaily -- Paper and Mathematica code.
+excerpt: Link to INSPIRES job posting
 header:
+   teaser: sagexSchool2.jpg 
    overlay_color: "#5e616c"
    overlay_filter: .6
 categories:
@@ -11,7 +12,7 @@ tags:
 - astro-ph
 - hep-th
 - postdoc
-author: false
+author_profile: false
 pinned: true
 ---
 {% include base_path %}
