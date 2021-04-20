@@ -21,7 +21,7 @@ Feel free to contact JJ if you'd like to post links to jobs for those with the g
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
-{% assign tag_words = "jobs,null" | split:',' }
+{% assign tag_words = "jobs,null" | split:',' %}
 {% assign firstWord=tag_words[0] %}
 {% assign secondWord=tag_words[-1] %}
 <!-- first: {{ firstWord }} -->

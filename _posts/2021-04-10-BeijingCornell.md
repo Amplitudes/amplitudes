@@ -1,15 +1,17 @@
 ---
-title: Joint Beijing-Cornell Postdoc: HEP Physics and Cosmology 
+title: Joint Beijing-Cornell Postdoc (HEP Physics and Cosmology)
 excerpt: Link to INSPIRES job posting
 header:
-   teaser: sagexSchool2.jpg 
    overlay_color: "#5e616c"
-   overlay_image: sagexSchool2.jpg
-   overlay_filter: .6
+   overlay_image: full-view-of-the-pyramids-in-giza-egypt.jpg
+   overlay_filter: .7
 categories:
 - jobs
 tags:
 - postdoc
+- hep-th
+- hep-ph
+- astro-ph
 author_profile: false
 pinned: true
 ---

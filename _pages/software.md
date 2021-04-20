@@ -15,7 +15,7 @@ author_profile: false
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
-{% assign tag_words = "software,null" | split:',' }
+{% assign tag_words = "software,null" | split:',' %}
 {% assign firstWord=tag_words[0] %}
 {% assign secondWord=tag_words[-1] %}
 <!-- first: {{ firstWord }} -->
