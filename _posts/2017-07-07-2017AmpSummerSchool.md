@@ -29,7 +29,7 @@ All summer school lectures,
 hosted by the Higgs Center for Theoretical Physics in Edinburgh,
 [here](https://indico.ph.ed.ac.uk/event/30/).
 
-# Lecturer's
+# Lecturers
  Stefan Weinzierl, Marcus Spradlin, John Joseph M. Carrasco, Jaroslav Trnka, and Johannes Henn.
 
 # Description
