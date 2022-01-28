@@ -1,6 +1,6 @@
 ---
 title: Amplitudes and Insights Group at Northwestern University 
-excerpt: Link to INSPIRES job posting
+excerpt: Postdoc in hep-th 
 header:
    overlay_color: "#5e616c"
    overlay_image: full-view-of-the-pyramids-in-giza-egypt.jpg
