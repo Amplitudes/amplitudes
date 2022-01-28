@@ -21,7 +21,7 @@ pinned: true
 
 The [Amplitudes and Insights group](http://fancyphysics.org) in the Department of Physics and Astronomy of Weinberg College of Arts and Sciences at Northwestern University welcomes applications for a postdoctoral research scholar to join the group beginning the autumn of 2021 with a focus on large-scale analytic prediction. 
 
-The posting shall remain open until the position is filled, however for full consideration, please apply by close of business on February 15, 2021.
+The posting shall remain open until the position is filled, however for full consideration, please apply by close of business on February 15, 2022.
 
 What you will do:
 1. Apply amplitude insights to physical stories from particle physics, to gravitational wave physics, to cosmology.
