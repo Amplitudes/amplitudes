@@ -24,18 +24,18 @@ The [Amplitudes and Insights group](http://fancyphysics.org) in the Department o
 The posting shall remain open until the position is filled, however for full consideration, please apply by close of business on February 15, 2021.
 
 What you will do:
-Apply amplitude insights to physical stories from particle physics, to gravitational wave physics, to cosmology.
-Discover new structure in multi-loop gauge and gravity invariant predictions.
-Provide technical leadership in large-scale analytic calculation, mentoring and supporting other members of the group.
+1. Apply amplitude insights to physical stories from particle physics, to gravitational wave physics, to cosmology.
+2. Discover new structure in multi-loop gauge and gravity invariant predictions.
+3. Provide technical leadership in large-scale analytic calculation, mentoring and supporting other members of the group.
 
 Required Qualifications: PhD in physics.  Penchant for gauge invariance.
 
 Highly Desired: 
-Experience in calculating and analyzing the UV properties of multi-loop gauge and gravity scattering amplitudes, and associated automation.
-Experience constructing representations manifesting the duality between color and kinematics in non-trivial gauge theories and double-copy construction in the color-dual web of theories. 
-Experience with the low-energy expansion of string predictions at tree and loop level.
-Experience with classical gravitational wave calculation at higher order either in PN or PM expansions, preferably both.
-Experience with scientific computing towards analytic results on high performance computing clusters.
+ - Experience in calculating and analyzing the UV properties of multi-loop gauge and gravity scattering amplitudes, and associated automation.
+ - Experience constructing representations manifesting the duality between color and kinematics in non-trivial gauge theories and double-copy construction in the color-dual web of theories. 
+ - Experience with the low-energy expansion of string predictions at tree and loop level.
+ - Experience with classical gravitational wave calculation at higher order either in PN or PM expansions, preferably both.
+ - Experience with scientific computing towards analytic results on high performance computing clusters.
 
 
 To Apply:  Applicants should send a CV with a list of publications and contact information for three references, as well as a scientific research statement of no greater than 4 pages, to [John Joseph Carrasco](mailto:carrasco@northwestern.edu). 
