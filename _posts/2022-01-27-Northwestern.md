@@ -1,5 +1,5 @@
 ---
-title: Amplitudes and Insights Group at Northwestern University 
+title: Expired. ~~Amplitudes and Insights Group at Northwestern University~~ 
 excerpt: Postdoc in hep-th 
 header:
    overlay_color: "#5e616c"
@@ -38,7 +38,11 @@ Highly Desired:
  - Experience with scientific computing towards analytic results on high performance computing clusters.
 
 
-To Apply:  Applicants should send a CV with a list of publications and contact information for three references, as well as a scientific research statement of no greater than 4 pages, to [John Joseph Carrasco](mailto:carrasco@northwestern.edu). 
+To Apply:  This position is now closed. Please see  [amplitudes.org](http://amplitudes.org/jobs/) for any currently open positions.
+~~Applicants should send a CV with a list of publications and contact information for three references, as well as a scientific research statement of no greater than 4 pages~~
+
+
+
 
 *Northwestern University is an Equal Opportunity, Affirmative Action Employer of all protected classes, including veterans and individuals with disabilities. Women, underrepresented racial and ethnic minorities, individuals with disabilities, and veterans are encouraged to apply. Hiring is contingent upon eligibility to work in the United States.*
 
