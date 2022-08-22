@@ -1,5 +1,5 @@
 ---
-title: Expired. ~~Amplitudes and Insights Group at Northwestern University~~ 
+title: Closed. ~~A&I Group, Northwestern University~~ 
 excerpt: Postdoc in hep-th 
 header:
    overlay_color: "#5e616c"
@@ -17,7 +17,7 @@ pinned: true
 ---
 {% include base_path %}
 
-# Postdoctoral Position in Theoretical High Energy Physics
+# Postdoctoral Position in Theoretical Physics 
 
 The [Amplitudes and Insights group](http://fancyphysics.org) in the Department of Physics and Astronomy of Weinberg College of Arts and Sciences at Northwestern University welcomes applications for a postdoctoral research scholar to join the group beginning the autumn of 2021 with a focus on large-scale analytic prediction. 
 
