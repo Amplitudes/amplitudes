@@ -16,9 +16,7 @@ pinned: true
 
 # Massive matter and the double copy: Bootstrapping amplitudes in gauge and gravity theories
 
-## Ingrid A. Vazquez-Holm
-### Advisor: John Joseph M. Carrasco
-
+### Ingrid A. Vazquez-Holm
 
 ## [Link to PDF](/images/IngridHolmThesis.pdf)
 
@@ -33,3 +31,11 @@ Our color-dual representations have an important feature. The same kinematic wei
 The double copy construction maps from the scattering of gluons to the scattering of gravitons in N = 0 supergravity, with additional massless states beyond the graviton coupling to the massive scalars. At tree- and loop-level we show that a projective double copy, combining naive double-copy with an application of the method of maximal cuts, can be easily exploited to project out non-gravitational states from the naive double copy, bootstrapping the predictions associated with pure-gravitational interactions between massive scalars.
 
 We expect that the integrands found in this thesis can be used to find one-loop five-point predictions towards radiative corrections to classical observables. With that in mind, we warm up by using the amplitudes found in this thesis to reproduce known results for the color-impulse at leading and next-to-leading order, and radiation at leading order.
+
+
+-----------------
+
+Funded in part by the [European Union's Horizon 2020 Framework Program](https://ec.europa.eu/programmes/horizon2020/) under the Marie Skłodowska-Curie grant agreement No. 764850 ([SAGEX](https://sagex.org)). 
+
+| <img src="/images/eu_flag.jpg" alt="eu_flag" > | <img src="/images/Sagex.jpg" alt="SAGEX-Logo" > |
+
