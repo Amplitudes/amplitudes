@@ -17,7 +17,7 @@ pinned: true
 
 
 # Multipoint conformal blocks in conformal field theories
-### Lorenzo Quintavalle's 
+### Lorenzo Quintavalle
 
 ## [Link to PDF](/images/Lorenzo%20Quintavalle%20thesis.pdf)
 
