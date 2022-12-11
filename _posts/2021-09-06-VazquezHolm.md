@@ -1,9 +1,9 @@
 ---
-title: Massive matter and the double copy, Bootstrapping amplitudes in gauge and gravity theories
+title: Massive matter and the double copy: Bootstrapping amplitudes in gauge and gravity theories
 excerpt: Ingrid Vazquez-Holm's thesis 
 header:
    overlay_color: "#5e616c"
-   overlay_image: full-view-of-the-pyramids-in-giza-egypt.jpg
+   overlay_image: Holm-cropped.jpg 
    overlay_filter: .7
 categories:
 - theses

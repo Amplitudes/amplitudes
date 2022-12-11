@@ -11,7 +11,9 @@ header:
 author_profile: false
 ---
 
-## Links
+## Amplitudes Related PhD Links
+
+This originally started as a repository for SAGEX theses -- but other amplitudes related PhD folk are welcome to link to their dissertations.
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
