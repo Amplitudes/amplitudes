@@ -11,7 +11,7 @@ header:
 author_profile: false
 ---
 
-## Awesome 
+## Links to Amplitudes related theses 
 
  * [Anne Spiering](/images/Anne%20Spiering_Thesis.pdf)
 
