@@ -21,6 +21,8 @@ feature_row:
 
 This is an experiment in an open-community resource-linking. As currently conceived it's aiming to connect amplitude results in machine-readable form ([integrated](/integrals/) and [integrand](/integrands/)),  [software](/software/), and [lecture materials](/lectures/) relevant to the scattering amplitudes community.
 
+Also find a repository of recent amplitudes related PhD [theses](/theses/).
+
 
 # Have something you want to share?
   * First contact an [admin](https://github.com/orgs/Amplitudes/people) of the [repository](https://github.com/Amplitudes/amplitudes/tree/gh-pages) just to check if it's in line with current site goals. If all you want to do is link to an arxiv paper that has appropriate ancilary files feel free to just email the admin with the arxiv number and optionally a potential list of tags.

@@ -11,5 +11,7 @@ main:
     url: /lectures/
   - title: "Jobs"
     url: /jobs/
+  - title: "Theses"
+    url: /theses/
   - title: "All TAGS"
     url: /tags/
