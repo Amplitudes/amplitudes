@@ -13,7 +13,6 @@ author_profile: false
 
 ## Links to Amplitudes related theses 
 
- * [Anne Spiering](/images/Anne%20Spiering_Thesis.pdf)
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 <!-- site_categories: {{ site_categories }} -->
