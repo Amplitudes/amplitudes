@@ -15,4 +15,3 @@ excerpt: SAGEX PhD Thesis.
 ## Links to SAGEX PhD Theses.
 
  * [Anne Spiering](/images/Anne%20Spiering_Thesis.pdf)
- * [Anne Spiering](/images/Anne Spiering_Thesis.pdf)
