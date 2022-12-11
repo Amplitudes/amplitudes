@@ -1,6 +1,5 @@
 ---
 layout: splash
-permalink: /
 title: "Amplitudes PhD Theses"
 header:
   overlay_color: "#5e616c"
