@@ -3,7 +3,7 @@ title: The On-Shell Highway To Waveforms
 excerpt: Andrea Cristofoli's thesis 
 header:
    overlay_color: "#5e616c"
-   overlay_image: full-view-of-the-pyramids-in-giza-egypt.jpg
+   overlay_image: Cristofoli-cropped-2.jpg
    overlay_filter: .7
 categories:
 - theses
